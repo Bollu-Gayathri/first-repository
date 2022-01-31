@@ -8,4 +8,4 @@ Raise a PR, give "antasmishra" access to repo.
 Don't approve the PR.
 
 //Adding new content
-This is the exercise on github
+This is the first exercise on github
